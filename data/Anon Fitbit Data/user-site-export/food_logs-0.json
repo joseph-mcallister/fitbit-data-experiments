@@ -1,0 +1,2289 @@
+[{
+  "logId" : 20405588267,
+  "loggedFood" : {
+    "foodId" : 763803435,
+    "name" : "Pork Loin Chops Bone In",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 1136,
+    "amount" : 20.66,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-22",
+  "favorite" : false
+},{
+  "logId" : 20404491481,
+  "loggedFood" : {
+    "foodId" : 764059277,
+    "name" : "Beef Strip Steak Boneless",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 520,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-21",
+  "favorite" : false
+},{
+  "logId" : 20401794798,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 339,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-21",
+  "favorite" : false
+},{
+  "logId" : 20407250073,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2020-01-21",
+  "favorite" : false
+},{
+  "logId" : 20404730619,
+  "loggedFood" : {
+    "foodId" : 14710981,
+    "locale" : "en_US",
+    "name" : "Fried Pork Skins, Original",
+    "brand" : "Mac's Chicharrones",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 291,
+    "amount" : 51.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 291,
+    "fat" : 21.86,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 765.0,
+    "protein" : 29.14
+  },
+  "logDate" : "2020-01-21",
+  "favorite" : false
+},{
+  "logId" : 20390181690,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 699,
+    "amount" : 16.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-21",
+  "favorite" : false
+},{
+  "logId" : 20391884133,
+  "loggedFood" : {
+    "foodId" : 763982723,
+    "name" : "Beef Rib Eye Steak Boneless",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 1006,
+    "amount" : 13.87,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-21",
+  "favorite" : false
+},{
+  "logId" : 20401538948,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 135,
+    "amount" : 25.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 135,
+    "fat" : 10.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 450.0,
+    "protein" : 9.0
+  },
+  "logDate" : "2020-01-21",
+  "favorite" : false
+},{
+  "logId" : 20393931143,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 110,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-21",
+  "favorite" : false
+},{
+  "logId" : 20390604786,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 315,
+    "amount" : 59.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 315,
+    "fat" : 24.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 1050.0,
+    "protein" : 21.0
+  },
+  "logDate" : "2020-01-21",
+  "favorite" : false
+},{
+  "logId" : 20389817855,
+  "loggedFood" : {
+    "foodId" : 693570357,
+    "locale" : "en_US",
+    "name" : "Lump Crab Meat",
+    "brand" : "Blue Star",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 131,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 131,
+    "fat" : 2.25,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 355.5,
+    "protein" : 25.5
+  },
+  "logDate" : "2020-01-21",
+  "favorite" : false
+},{
+  "logId" : 20379111440,
+  "loggedFood" : {
+    "foodId" : 764059277,
+    "name" : "Beef Strip Steak Boneless",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 780,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-20",
+  "favorite" : false
+},{
+  "logId" : 20377271382,
+  "loggedFood" : {
+    "foodId" : 763803435,
+    "name" : "Pork Loin Chops Bone In",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 1018,
+    "amount" : 18.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-20",
+  "favorite" : false
+},{
+  "logId" : 20375893215,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 135,
+    "amount" : 25.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 135,
+    "fat" : 10.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 450.0,
+    "protein" : 9.0
+  },
+  "logDate" : "2020-01-20",
+  "favorite" : false
+},{
+  "logId" : 20378500142,
+  "loggedFood" : {
+    "foodId" : 732885111,
+    "locale" : "en_US",
+    "name" : "Saffron Yellow Rice Mix",
+    "brand" : "Riceland",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 1440,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 1440,
+    "fat" : 0.0,
+    "fiber" : 4.0,
+    "carbs" : 320.0,
+    "sodium" : 5680.0,
+    "protein" : 32.0
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20377437234,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 40,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20376325123,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 34.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 600.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20377368399,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 55,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20374465434,
+  "loggedFood" : {
+    "foodId" : 762486481,
+    "name" : "Barilla Gluten-Free Spaghetti",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 136,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20375350921,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20374957381,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 165,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20374396594,
+  "loggedFood" : {
+    "foodId" : 762486481,
+    "name" : "Barilla Gluten-Free Spaghetti",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 560,
+    "amount" : 165.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20375990724,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 677,
+    "amount" : 16.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20374672069,
+  "loggedFood" : {
+    "foodId" : 724258425,
+    "locale" : "en_US",
+    "name" : "Basil Pesto Sauce",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 48,
+    "amount" : 0.06,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 48,
+    "fat" : 4.56,
+    "fiber" : 0.24,
+    "carbs" : 1.2,
+    "sodium" : 144.0,
+    "protein" : 0.72
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20375754466,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 34.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 600.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2020-01-19",
+  "favorite" : false
+},{
+  "logId" : 20364046125,
+  "loggedFood" : {
+    "foodId" : 762423028,
+    "name" : "Buffalo Wings (medium)",
+    "brand" : "Buffalo Wild Wings",
+    "accessLevel" : "PRIVATE",
+    "units" : [251],
+    "calories" : 1380,
+    "amount" : 18.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-18",
+  "favorite" : false
+},{
+  "logId" : 20362096764,
+  "loggedFood" : {
+    "foodId" : 764059277,
+    "name" : "Beef Strip Steak Boneless",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 195,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-18",
+  "favorite" : false
+},{
+  "logId" : 20347566094,
+  "loggedFood" : {
+    "foodId" : 14559394,
+    "locale" : "en_US",
+    "name" : "Black Label, Thick Cut Bacon",
+    "brand" : "Hormel",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,311,226,180,147,389],
+    "calories" : 165,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 165,
+    "fat" : 13.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 795.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2020-01-17",
+  "favorite" : false
+},{
+  "logId" : 20348314393,
+  "loggedFood" : {
+    "foodId" : 764059277,
+    "name" : "Beef Strip Steak Boneless",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 837,
+    "amount" : 12.87,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-17",
+  "favorite" : false
+},{
+  "logId" : 20349072190,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 324,
+    "amount" : 7.66,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-17",
+  "favorite" : false
+},{
+  "logId" : 20346924278,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2020-01-17",
+  "favorite" : false
+},{
+  "logId" : 20345595664,
+  "loggedFood" : {
+    "foodId" : 724258425,
+    "locale" : "en_US",
+    "name" : "Basil Pesto Sauce",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 48,
+    "amount" : 0.06,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 48,
+    "fat" : 4.56,
+    "fiber" : 0.24,
+    "carbs" : 1.2,
+    "sodium" : 144.0,
+    "protein" : 0.72
+  },
+  "logDate" : "2020-01-17",
+  "favorite" : false
+},{
+  "logId" : 20349059656,
+  "loggedFood" : {
+    "foodId" : 763803435,
+    "name" : "Pork Loin Chops Bone In",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 1258,
+    "amount" : 22.87,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-17",
+  "favorite" : false
+},{
+  "logId" : 20349079391,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 663,
+    "amount" : 15.66,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-17",
+  "favorite" : false
+},{
+  "logId" : 20347514737,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 165,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-17",
+  "favorite" : false
+},{
+  "logId" : 20349473164,
+  "loggedFood" : {
+    "foodId" : 14559394,
+    "locale" : "en_US",
+    "name" : "Black Label, Thick Cut Bacon",
+    "brand" : "Hormel",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,311,226,180,147,389],
+    "calories" : 220,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 220,
+    "fat" : 18.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 1060.0,
+    "protein" : 16.0
+  },
+  "logDate" : "2020-01-17",
+  "favorite" : false
+},{
+  "logId" : 20351018384,
+  "loggedFood" : {
+    "foodId" : 762486481,
+    "name" : "Barilla Gluten-Free Spaghetti",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 560,
+    "amount" : 165.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-17",
+  "favorite" : false
+},{
+  "logId" : 20350285383,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 135,
+    "amount" : 25.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 135,
+    "fat" : 10.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 450.0,
+    "protein" : 9.0
+  },
+  "logDate" : "2020-01-16",
+  "favorite" : false
+},{
+  "logId" : 20347047782,
+  "loggedFood" : {
+    "foodId" : 764059277,
+    "name" : "Beef Strip Steak Boneless",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 858,
+    "amount" : 13.2,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-16",
+  "favorite" : false
+},{
+  "logId" : 20332573817,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2020-01-16",
+  "favorite" : false
+},{
+  "logId" : 20332387106,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 34.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 600.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2020-01-16",
+  "favorite" : false
+},{
+  "logId" : 20332947764,
+  "loggedFood" : {
+    "foodId" : 763803435,
+    "name" : "Pork Loin Chops Bone In",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 1141,
+    "amount" : 20.75,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-16",
+  "favorite" : false
+},{
+  "logId" : 20331629162,
+  "loggedFood" : {
+    "foodId" : 762486481,
+    "name" : "Barilla Gluten-Free Spaghetti",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 560,
+    "amount" : 165.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-16",
+  "favorite" : false
+},{
+  "logId" : 20334837673,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 165,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-16",
+  "favorite" : false
+},{
+  "logId" : 20335083460,
+  "loggedFood" : {
+    "foodId" : 724258425,
+    "locale" : "en_US",
+    "name" : "Basil Pesto Sauce",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 48,
+    "amount" : 0.06,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 48,
+    "fat" : 4.56,
+    "fiber" : 0.24,
+    "carbs" : 1.2,
+    "sodium" : 144.0,
+    "protein" : 0.72
+  },
+  "logDate" : "2020-01-16",
+  "favorite" : false
+},{
+  "logId" : 20336018374,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 529,
+    "amount" : 12.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-16",
+  "favorite" : false
+},{
+  "logId" : 20333601054,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 165,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20336720956,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 315,
+    "amount" : 59.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 315,
+    "fat" : 24.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 1050.0,
+    "protein" : 21.0
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20332213384,
+  "loggedFood" : {
+    "foodId" : 692828166,
+    "locale" : "en_US",
+    "name" : "Claw Crab Meat",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 131,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 131,
+    "fat" : 2.25,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 355.5,
+    "protein" : 25.5
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20332636632,
+  "loggedFood" : {
+    "foodId" : 763982723,
+    "name" : "Beef Rib Eye Steak Boneless",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 885,
+    "amount" : 12.2,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20335648254,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 522,
+    "amount" : 12.33,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20334033786,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20317888292,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 522,
+    "amount" : 12.33,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20316570186,
+  "loggedFood" : {
+    "foodId" : 17204,
+    "locale" : "en_US",
+    "name" : "Cod, Fillet, Dinner Cut",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 437,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20318321496,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 165,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20322357158,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 34.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 600.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20322357159,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 165,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20319404458,
+  "loggedFood" : {
+    "foodId" : 762486481,
+    "name" : "Barilla Gluten-Free Spaghetti",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 560,
+    "amount" : 165.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-15",
+  "favorite" : false
+},{
+  "logId" : 20320875286,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1040,
+    "amount" : 13.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 1040,
+    "fat" : 87.75,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 195.0,
+    "protein" : 61.75
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20322115300,
+  "loggedFood" : {
+    "foodId" : 692828166,
+    "locale" : "en_US",
+    "name" : "Claw Crab Meat",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 218,
+    "amount" : 2.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 218,
+    "fat" : 3.75,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 592.5,
+    "protein" : 42.5
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20320009205,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 270,
+    "amount" : 51.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 270,
+    "fat" : 21.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 900.0,
+    "protein" : 18.0
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20317165028,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20301027625,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 110,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20301677874,
+  "loggedFood" : {
+    "foodId" : 762486481,
+    "name" : "Barilla Gluten-Free Spaghetti",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 560,
+    "amount" : 165.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20305554745,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 480,
+    "amount" : 11.33,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20307759425,
+  "loggedFood" : {
+    "foodId" : 82503,
+    "locale" : "en_US",
+    "name" : "Cod",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 195,
+    "amount" : 6.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20300722839,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 165,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20306991007,
+  "loggedFood" : {
+    "foodId" : 763803435,
+    "name" : "Pork Loin Chops Bone In",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 1141,
+    "amount" : 20.75,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20307494331,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 34.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 600.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20305693139,
+  "loggedFood" : {
+    "foodId" : 724258425,
+    "locale" : "en_US",
+    "name" : "Basil Pesto Sauce",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 48,
+    "amount" : 0.06,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 48,
+    "fat" : 4.56,
+    "fiber" : 0.24,
+    "carbs" : 1.2,
+    "sodium" : 144.0,
+    "protein" : 0.72
+  },
+  "logDate" : "2020-01-14",
+  "favorite" : false
+},{
+  "logId" : 20302743704,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2020-01-13",
+  "favorite" : false
+},{
+  "logId" : 20300913826,
+  "loggedFood" : {
+    "foodId" : 762423028,
+    "name" : "Buffalo Wings (medium)",
+    "brand" : "Buffalo Wild Wings",
+    "accessLevel" : "PRIVATE",
+    "units" : [251],
+    "calories" : 1380,
+    "amount" : 18.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-13",
+  "favorite" : false
+},{
+  "logId" : 20286401132,
+  "loggedFood" : {
+    "foodId" : 14549208,
+    "locale" : "en_US",
+    "name" : "Dry Roasted Peanuts",
+    "brand" : "Planters",
+    "accessLevel" : "PUBLIC",
+    "units" : [251,226,180,147,389],
+    "calories" : 411,
+    "amount" : 72.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 411,
+    "fat" : 36.0,
+    "fiber" : 5.14,
+    "carbs" : 12.86,
+    "sodium" : 488.57,
+    "protein" : 18.0
+  },
+  "logDate" : "2020-01-13",
+  "favorite" : false
+},{
+  "logId" : 20303452380,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2020-01-13",
+  "favorite" : false
+},{
+  "logId" : 20287444907,
+  "loggedFood" : {
+    "foodId" : 762486481,
+    "name" : "Barilla Gluten-Free Spaghetti",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 560,
+    "amount" : 165.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-13",
+  "favorite" : false
+},{
+  "logId" : 20289816516,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 175,
+    "amount" : 33.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 175,
+    "fat" : 13.59,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 582.35,
+    "protein" : 11.65
+  },
+  "logDate" : "2020-01-13",
+  "favorite" : false
+},{
+  "logId" : 20286253017,
+  "loggedFood" : {
+    "foodId" : 763803435,
+    "name" : "Pork Loin Chops Bone In",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 1100,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-13",
+  "favorite" : false
+},{
+  "logId" : 20290082020,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 434,
+    "amount" : 10.25,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-13",
+  "favorite" : false
+},{
+  "logId" : 20289167083,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 165,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-13",
+  "favorite" : false
+},{
+  "logId" : 20296415726,
+  "loggedFood" : {
+    "foodId" : 724258425,
+    "locale" : "en_US",
+    "name" : "Basil Pesto Sauce",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 48,
+    "amount" : 0.06,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 48,
+    "fat" : 4.56,
+    "fiber" : 0.24,
+    "carbs" : 1.2,
+    "sodium" : 144.0,
+    "protein" : 0.72
+  },
+  "logDate" : "2020-01-13",
+  "favorite" : false
+},{
+  "logId" : 20290498562,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 113,
+    "amount" : 21.25,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 113,
+    "fat" : 8.75,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 375.0,
+    "protein" : 7.5
+  },
+  "logDate" : "2020-01-12",
+  "favorite" : false
+},{
+  "logId" : 20288756785,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1280,
+    "amount" : 16.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 1280,
+    "fat" : 108.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 240.0,
+    "protein" : 76.0
+  },
+  "logDate" : "2020-01-12",
+  "favorite" : false
+},{
+  "logId" : 20286887022,
+  "loggedFood" : {
+    "foodId" : 692828166,
+    "locale" : "en_US",
+    "name" : "Claw Crab Meat",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 131,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 131,
+    "fat" : 2.25,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 355.5,
+    "protein" : 25.5
+  },
+  "logDate" : "2020-01-12",
+  "favorite" : false
+},{
+  "logId" : 20290036100,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 917,
+    "amount" : 21.66,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-12",
+  "favorite" : false
+},{
+  "logId" : 20286335966,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 165,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-01-12",
+  "favorite" : false
+},{
+  "logId" : 20272007683,
+  "loggedFood" : {
+    "foodId" : 762423028,
+    "name" : "Buffalo Wings (medium)",
+    "brand" : "Buffalo Wild Wings",
+    "accessLevel" : "PRIVATE",
+    "units" : [251],
+    "calories" : 1380,
+    "amount" : 18.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-11",
+  "favorite" : false
+},{
+  "logId" : 20271732230,
+  "loggedFood" : {
+    "foodId" : 726421323,
+    "locale" : "en_US",
+    "name" : "Pork Chop",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 560,
+    "amount" : 16.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 560,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 880.0,
+    "protein" : 88.0
+  },
+  "logDate" : "2020-01-11",
+  "favorite" : false
+},{
+  "logId" : 20271486055,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 34.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 600.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2020-01-11",
+  "favorite" : false
+},{
+  "logId" : 20257345586,
+  "loggedFood" : {
+    "foodId" : 692142402,
+    "locale" : "en_US",
+    "name" : "Pure Irish Butter",
+    "brand" : "Kerrygold",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 400,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 400,
+    "fat" : 48.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20260209212,
+  "loggedFood" : {
+    "foodId" : 724258425,
+    "locale" : "en_US",
+    "name" : "Basil Pesto Sauce",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 200,
+    "amount" : 0.25,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 19.0,
+    "fiber" : 1.0,
+    "carbs" : 5.0,
+    "sodium" : 600.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20261134830,
+  "loggedFood" : {
+    "foodId" : 762486481,
+    "name" : "Barilla Gluten-Free Spaghetti",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 1120,
+    "amount" : 330.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20257876992,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 360,
+    "amount" : 68.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 28.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 1200.0,
+    "protein" : 24.0
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20255918292,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1120,
+    "amount" : 14.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 1120,
+    "fat" : 94.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 210.0,
+    "protein" : 66.5
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20257118940,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 508,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20261085416,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20257502845,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20257621024,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 34.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 600.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20257158457,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 508,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20258831463,
+  "loggedFood" : {
+    "foodId" : 762486481,
+    "name" : "Barilla Gluten-Free Spaghetti",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 560,
+    "amount" : 165.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-10",
+  "favorite" : false
+},{
+  "logId" : 20258330419,
+  "loggedFood" : {
+    "foodId" : 762513145,
+    "name" : "Lamb Loin Chops",
+    "brand" : "P&C Fresh",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 508,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2020-01-09",
+  "favorite" : false
+}]

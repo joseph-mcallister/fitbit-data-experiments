@@ -1,0 +1,2513 @@
+[{
+  "logId" : 19962221337,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1080,
+    "amount" : 13.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 1080,
+    "fat" : 91.13,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 202.5,
+    "protein" : 64.13
+  },
+  "logDate" : "2019-12-04",
+  "favorite" : false
+},{
+  "logId" : 19963815709,
+  "loggedFood" : {
+    "foodId" : 692828166,
+    "locale" : "en_US",
+    "name" : "Claw Crab Meat",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 131,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 131,
+    "fat" : 2.25,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 355.5,
+    "protein" : 25.5
+  },
+  "logDate" : "2019-12-04",
+  "favorite" : false
+},{
+  "logId" : 19963116859,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 270,
+    "amount" : 51.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 270,
+    "fat" : 21.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 900.0,
+    "protein" : 18.0
+  },
+  "logDate" : "2019-12-04",
+  "favorite" : false
+},{
+  "logId" : 19963835869,
+  "loggedFood" : {
+    "foodId" : 17204,
+    "locale" : "en_US",
+    "name" : "Cod, Fillet, Dinner Cut",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 154,
+    "amount" : 200.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-12-04",
+  "favorite" : false
+},{
+  "logId" : 19961502692,
+  "loggedFood" : {
+    "foodId" : 22783657,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Connors Steak & Seafood",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 795,
+    "amount" : 13.25,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 795,
+    "fat" : 53.0,
+    "fiber" : 0.0,
+    "carbs" : 13.25,
+    "sodium" : 905.42,
+    "protein" : 61.83
+  },
+  "logDate" : "2019-12-04",
+  "favorite" : false
+},{
+  "logId" : 19963038454,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 275,
+    "amount" : 2.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-12-04",
+  "favorite" : false
+},{
+  "logId" : 19962008585,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 451,
+    "amount" : 85.2,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 451,
+    "fat" : 35.08,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 1503.53,
+    "protein" : 30.07
+  },
+  "logDate" : "2019-12-03",
+  "favorite" : false
+},{
+  "logId" : 19962008605,
+  "loggedFood" : {
+    "foodId" : 17204,
+    "locale" : "en_US",
+    "name" : "Cod, Fillet, Dinner Cut",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 216,
+    "amount" : 280.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-12-03",
+  "favorite" : false
+},{
+  "logId" : 19962707523,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1120,
+    "amount" : 14.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 1120,
+    "fat" : 94.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 210.0,
+    "protein" : 66.5
+  },
+  "logDate" : "2019-12-03",
+  "favorite" : false
+},{
+  "logId" : 19963603021,
+  "loggedFood" : {
+    "foodId" : 692828166,
+    "locale" : "en_US",
+    "name" : "Claw Crab Meat",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 152,
+    "amount" : 1.75,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 152,
+    "fat" : 2.63,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 414.75,
+    "protein" : 29.75
+  },
+  "logDate" : "2019-12-03",
+  "favorite" : false
+},{
+  "logId" : 19963622756,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 220,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-12-03",
+  "favorite" : false
+},{
+  "logId" : 19961634662,
+  "loggedFood" : {
+    "foodId" : 22794635,
+    "locale" : "en_US",
+    "name" : "New Zealand Lamb Patties",
+    "brand" : "Atkins ranch",
+    "accessLevel" : "PUBLIC",
+    "units" : [238,226,180,147,389],
+    "calories" : 518,
+    "amount" : 322.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 518,
+    "fat" : 23.0,
+    "fiber" : 0.0,
+    "carbs" : 11.5,
+    "sodium" : 306.67,
+    "protein" : 65.17
+  },
+  "logDate" : "2019-12-03",
+  "favorite" : false
+},{
+  "logId" : 19962894649,
+  "loggedFood" : {
+    "foodId" : 745176874,
+    "locale" : "en_US",
+    "name" : "Pork Rinds, Original",
+    "brand" : "UTZ",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 400,
+    "amount" : 70.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 400,
+    "fat" : 30.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 1050.0,
+    "protein" : 40.0
+  },
+  "logDate" : "2019-12-03",
+  "favorite" : false
+},{
+  "logId" : 19933215757,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 135,
+    "amount" : 25.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 135,
+    "fat" : 10.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 450.0,
+    "protein" : 9.0
+  },
+  "logDate" : "2019-12-02",
+  "favorite" : false
+},{
+  "logId" : 19941149549,
+  "loggedFood" : {
+    "foodId" : 692828166,
+    "locale" : "en_US",
+    "name" : "Claw Crab Meat",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 141,
+    "amount" : 138.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 141,
+    "fat" : 2.44,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 384.78,
+    "protein" : 27.6
+  },
+  "logDate" : "2019-12-02",
+  "favorite" : false
+},{
+  "logId" : 19934159508,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 2240,
+    "amount" : 28.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 2240,
+    "fat" : 189.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 420.0,
+    "protein" : 133.0
+  },
+  "logDate" : "2019-12-02",
+  "favorite" : false
+},{
+  "logId" : 19933373352,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 275,
+    "amount" : 2.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-12-02",
+  "favorite" : false
+},{
+  "logId" : 19940815148,
+  "loggedFood" : {
+    "foodId" : 727699439,
+    "locale" : "en_US",
+    "name" : "Turkey Drumstick",
+    "brand" : "Zacky Farms",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 460,
+    "amount" : 11.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 460,
+    "fat" : 23.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 244.38,
+    "protein" : 63.25
+  },
+  "logDate" : "2019-12-02",
+  "favorite" : false
+},{
+  "logId" : 19938150775,
+  "loggedFood" : {
+    "foodId" : 81096,
+    "locale" : "en_US",
+    "name" : "Turkey Wing",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [383,373,226,180,147,389],
+    "calories" : 149,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 383,
+      "name" : "wing",
+      "plural" : "wings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-12-02",
+  "favorite" : false
+},{
+  "logId" : 19940215313,
+  "loggedFood" : {
+    "foodId" : 727699439,
+    "locale" : "en_US",
+    "name" : "Turkey Drumstick",
+    "brand" : "Zacky Farms",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 460,
+    "amount" : 11.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 2
+  },
+  "nutritionalValues" : {
+    "calories" : 460,
+    "fat" : 23.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 244.38,
+    "protein" : 63.25
+  },
+  "logDate" : "2019-12-02",
+  "favorite" : false
+},{
+  "logId" : 19939074903,
+  "loggedFood" : {
+    "foodId" : 10247,
+    "locale" : "en_US",
+    "name" : "Turkey Thigh, Roasted",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [353,226,180,147,389],
+    "calories" : 492,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 353,
+      "name" : "thigh",
+      "plural" : "thighs"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2019-12-02",
+  "favorite" : false
+},{
+  "logId" : 19890092447,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 360,
+    "amount" : 68.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 28.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 1200.0,
+    "protein" : 24.0
+  },
+  "logDate" : "2019-11-26",
+  "favorite" : false
+},{
+  "logId" : 19892739512,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 320,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 27.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 60.0,
+    "protein" : 19.0
+  },
+  "logDate" : "2019-11-26",
+  "favorite" : false
+},{
+  "logId" : 19891755982,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 280,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 520.0,
+    "protein" : 22.0
+  },
+  "logDate" : "2019-11-26",
+  "favorite" : false
+},{
+  "logId" : 19893846354,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 225,
+    "amount" : 42.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 225,
+    "fat" : 17.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 750.0,
+    "protein" : 15.0
+  },
+  "logDate" : "2019-11-25",
+  "favorite" : false
+},{
+  "logId" : 19893816914,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1920,
+    "amount" : 24.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 1920,
+    "fat" : 162.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 360.0,
+    "protein" : 114.0
+  },
+  "logDate" : "2019-11-25",
+  "favorite" : false
+},{
+  "logId" : 19889144158,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 330,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-25",
+  "favorite" : false
+},{
+  "logId" : 19892390256,
+  "loggedFood" : {
+    "foodId" : 721617873,
+    "locale" : "en_US",
+    "name" : "Lump Crab Meat",
+    "brand" : "publix",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 115,
+    "amount" : 140.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 115,
+    "fat" : 0.82,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 411.77,
+    "protein" : 28.0
+  },
+  "logDate" : "2019-11-25",
+  "favorite" : false
+},{
+  "logId" : 19893295521,
+  "loggedFood" : {
+    "foodId" : 692828166,
+    "locale" : "en_US",
+    "name" : "Claw Crab Meat",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 141,
+    "amount" : 138.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 141,
+    "fat" : 2.44,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 384.78,
+    "protein" : 27.6
+  },
+  "logDate" : "2019-11-25",
+  "favorite" : false
+},{
+  "logId" : 19892468976,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 560,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 560,
+    "fat" : 40.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 1040.0,
+    "protein" : 44.0
+  },
+  "logDate" : "2019-11-25",
+  "favorite" : false
+},{
+  "logId" : 19882617402,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 90,
+    "amount" : 17.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 90,
+    "fat" : 7.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 300.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2019-11-24",
+  "favorite" : false
+},{
+  "logId" : 19882765284,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 960,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 960,
+    "fat" : 81.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 180.0,
+    "protein" : 57.0
+  },
+  "logDate" : "2019-11-24",
+  "favorite" : false
+},{
+  "logId" : 19881680190,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 280,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 520.0,
+    "protein" : 22.0
+  },
+  "logDate" : "2019-11-24",
+  "favorite" : false
+},{
+  "logId" : 19882260592,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1160,
+    "amount" : 14.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 1160,
+    "fat" : 97.88,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 217.5,
+    "protein" : 68.88
+  },
+  "logDate" : "2019-11-24",
+  "favorite" : false
+},{
+  "logId" : 19881631367,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 34.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 600.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2019-11-24",
+  "favorite" : false
+},{
+  "logId" : 19880362164,
+  "loggedFood" : {
+    "foodId" : 17204,
+    "locale" : "en_US",
+    "name" : "Cod, Fillet, Dinner Cut",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 280,
+    "amount" : 363.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-24",
+  "favorite" : false
+},{
+  "logId" : 19882506462,
+  "loggedFood" : {
+    "foodId" : 721617873,
+    "locale" : "en_US",
+    "name" : "Lump Crab Meat",
+    "brand" : "publix",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 115,
+    "amount" : 140.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 115,
+    "fat" : 0.82,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 411.77,
+    "protein" : 28.0
+  },
+  "logDate" : "2019-11-24",
+  "favorite" : false
+},{
+  "logId" : 19883106551,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 330,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-24",
+  "favorite" : false
+},{
+  "logId" : 19875178883,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 698,
+    "amount" : 131.75,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 698,
+    "fat" : 54.25,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 2325.0,
+    "protein" : 46.5
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19874115758,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 220,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19873683408,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 140,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 10.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 260.0,
+    "protein" : 11.0
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19874440953,
+  "loggedFood" : {
+    "foodId" : 17204,
+    "locale" : "en_US",
+    "name" : "Cod, Fillet, Dinner Cut",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 280,
+    "amount" : 363.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19875294227,
+  "loggedFood" : {
+    "foodId" : 17204,
+    "locale" : "en_US",
+    "name" : "Cod, Fillet, Dinner Cut",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 280,
+    "amount" : 363.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19873208601,
+  "loggedFood" : {
+    "foodId" : 692828166,
+    "locale" : "en_US",
+    "name" : "Claw Crab Meat",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 144,
+    "amount" : 1.66,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 144,
+    "fat" : 2.49,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 393.42,
+    "protein" : 28.22
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19875962661,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 220,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19875382837,
+  "loggedFood" : {
+    "foodId" : 14623320,
+    "locale" : "en_US",
+    "name" : "Salted Butter",
+    "brand" : "Organic Valley",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 100,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 100,
+    "fat" : 11.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 75.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19873729717,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1720,
+    "amount" : 21.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 1720,
+    "fat" : 145.13,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 322.5,
+    "protein" : 102.13
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19874930113,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 420,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 420,
+    "fat" : 30.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 780.0,
+    "protein" : 33.0
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19873513164,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 135,
+    "amount" : 25.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 135,
+    "fat" : 10.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 450.0,
+    "protein" : 9.0
+  },
+  "logDate" : "2019-11-23",
+  "favorite" : false
+},{
+  "logId" : 19872770602,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 330,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-22",
+  "favorite" : false
+},{
+  "logId" : 19873213228,
+  "loggedFood" : {
+    "foodId" : 17204,
+    "locale" : "en_US",
+    "name" : "Cod, Fillet, Dinner Cut",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 363,
+    "amount" : 472.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-22",
+  "favorite" : false
+},{
+  "logId" : 19866923090,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 90,
+    "amount" : 17.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 90,
+    "fat" : 7.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 300.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2019-11-22",
+  "favorite" : false
+},{
+  "logId" : 19867099760,
+  "loggedFood" : {
+    "foodId" : 693570357,
+    "locale" : "en_US",
+    "name" : "Lump Crab Meat",
+    "brand" : "Blue Star",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 218,
+    "amount" : 2.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 218,
+    "fat" : 3.75,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 592.5,
+    "protein" : 42.5
+  },
+  "logDate" : "2019-11-22",
+  "favorite" : false
+},{
+  "logId" : 19865111924,
+  "loggedFood" : {
+    "foodId" : 721589370,
+    "locale" : "en_US",
+    "name" : "T-Bone Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 770,
+    "amount" : 14.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 770,
+    "fat" : 45.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 210.0,
+    "protein" : 77.0
+  },
+  "logDate" : "2019-11-22",
+  "favorite" : false
+},{
+  "logId" : 19866480134,
+  "loggedFood" : {
+    "foodId" : 692027924,
+    "locale" : "en_US",
+    "name" : "Venison Jerky",
+    "brand" : "Buffalo Bills",
+    "accessLevel" : "PUBLIC",
+    "units" : [251,226,180,147,389],
+    "calories" : 105,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 105,
+    "fat" : 1.5,
+    "fiber" : 0.0,
+    "carbs" : 6.0,
+    "sodium" : 1680.0,
+    "protein" : 18.0
+  },
+  "logDate" : "2019-11-22",
+  "favorite" : false
+},{
+  "logId" : 19866666274,
+  "loggedFood" : {
+    "foodId" : 745176874,
+    "locale" : "en_US",
+    "name" : "Pork Rinds, Original",
+    "brand" : "UTZ",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 286,
+    "amount" : 50.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 286,
+    "fat" : 21.43,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 750.0,
+    "protein" : 28.57
+  },
+  "logDate" : "2019-11-22",
+  "favorite" : false
+},{
+  "logId" : 19873351008,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 280,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 520.0,
+    "protein" : 22.0
+  },
+  "logDate" : "2019-11-22",
+  "favorite" : false
+},{
+  "logId" : 19866283109,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1000,
+    "amount" : 12.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 1000,
+    "fat" : 84.38,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 187.5,
+    "protein" : 59.38
+  },
+  "logDate" : "2019-11-22",
+  "favorite" : false
+},{
+  "logId" : 19865879994,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 90,
+    "amount" : 17.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 90,
+    "fat" : 7.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 300.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2019-11-22",
+  "favorite" : false
+},{
+  "logId" : 19866927050,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 293,
+    "amount" : 55.25,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 293,
+    "fat" : 22.75,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 975.0,
+    "protein" : 19.5
+  },
+  "logDate" : "2019-11-21",
+  "favorite" : false
+},{
+  "logId" : 19866560274,
+  "loggedFood" : {
+    "foodId" : 725731507,
+    "locale" : "en_US",
+    "name" : "Bone-In Ribeye (20 oz)",
+    "brand" : "Texas Roadhouse",
+    "accessLevel" : "PUBLIC",
+    "units" : [337],
+    "calories" : 1476,
+    "amount" : 1.33,
+    "unit" : {
+      "id" : 337,
+      "name" : "steak",
+      "plural" : "steaks"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 1476,
+    "fat" : 101.08,
+    "fiber" : 3.99,
+    "carbs" : 9.31,
+    "sodium" : 1715.7,
+    "protein" : 142.31
+  },
+  "logDate" : "2019-11-21",
+  "favorite" : false
+},{
+  "logId" : 19860259806,
+  "loggedFood" : {
+    "foodId" : 745176874,
+    "locale" : "en_US",
+    "name" : "Pork Rinds, Original",
+    "brand" : "UTZ",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 171,
+    "amount" : 30.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 171,
+    "fat" : 12.86,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 450.0,
+    "protein" : 17.14
+  },
+  "logDate" : "2019-11-21",
+  "favorite" : false
+},{
+  "logId" : 19856637473,
+  "loggedFood" : {
+    "foodId" : 692058804,
+    "locale" : "en_US",
+    "name" : "Pork Chops",
+    "brand" : "Farm promise",
+    "accessLevel" : "PUBLIC",
+    "units" : [61,226,180,147,389],
+    "calories" : 420,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 61,
+      "name" : "chop",
+      "plural" : "chops"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 420,
+    "fat" : 12.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 195.0,
+    "protein" : 73.5
+  },
+  "logDate" : "2019-11-21",
+  "favorite" : false
+},{
+  "logId" : 19855830379,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 90,
+    "amount" : 17.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 90,
+    "fat" : 7.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 300.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2019-11-21",
+  "favorite" : false
+},{
+  "logId" : 19855702389,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 110,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-21",
+  "favorite" : false
+},{
+  "logId" : 19855613817,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 280,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 520.0,
+    "protein" : 22.0
+  },
+  "logDate" : "2019-11-21",
+  "favorite" : false
+},{
+  "logId" : 19839810057,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1920,
+    "amount" : 24.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 1920,
+    "fat" : 162.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 360.0,
+    "protein" : 114.0
+  },
+  "logDate" : "2019-11-20",
+  "favorite" : false
+},{
+  "logId" : 19866749743,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 34.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 600.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2019-11-20",
+  "favorite" : false
+},{
+  "logId" : 19841127632,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 110,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-20",
+  "favorite" : false
+},{
+  "logId" : 19821958090,
+  "loggedFood" : {
+    "foodId" : 761755808,
+    "name" : "Buffalo Wings",
+    "brand" : "D. P. Dough",
+    "accessLevel" : "PRIVATE",
+    "units" : [251],
+    "calories" : 2070,
+    "amount" : 23.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2019-11-20",
+  "favorite" : false
+},{
+  "logId" : 19867920827,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 34.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 600.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2019-11-19",
+  "favorite" : false
+},{
+  "logId" : 19821326185,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 214,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-19",
+  "favorite" : false
+},{
+  "logId" : 19821129155,
+  "loggedFood" : {
+    "foodId" : 81604,
+    "locale" : "en_US",
+    "name" : "Chicken Thighs",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [353,304,226,180,147,389],
+    "calories" : 452,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 353,
+      "name" : "thigh",
+      "plural" : "thighs"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-19",
+  "favorite" : false
+},{
+  "logId" : 19821985010,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 960,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 960,
+    "fat" : 81.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 180.0,
+    "protein" : 57.0
+  },
+  "logDate" : "2019-11-19",
+  "favorite" : false
+},{
+  "logId" : 19865352911,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 420,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 420,
+    "fat" : 30.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 780.0,
+    "protein" : 33.0
+  },
+  "logDate" : "2019-11-19",
+  "favorite" : false
+},{
+  "logId" : 19866425320,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 120,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 120,
+    "fat" : 10.13,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 22.5,
+    "protein" : 7.13
+  },
+  "logDate" : "2019-11-19",
+  "favorite" : false
+},{
+  "logId" : 19809472403,
+  "loggedFood" : {
+    "foodId" : 721589310,
+    "locale" : "en_US",
+    "name" : "Pork Loin Chops, Thick",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 130,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 130,
+    "fat" : 4.5,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 210.0,
+    "protein" : 23.0
+  },
+  "logDate" : "2019-11-18",
+  "favorite" : false
+},{
+  "logId" : 19803979279,
+  "loggedFood" : {
+    "foodId" : 14695157,
+    "locale" : "en_US",
+    "name" : "Bacon, Thick Sliced Deli",
+    "brand" : "Sugardale",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 540,
+    "amount" : 102.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 540,
+    "fat" : 42.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 1800.0,
+    "protein" : 36.0
+  },
+  "logDate" : "2019-11-18",
+  "favorite" : false
+},{
+  "logId" : 19805985616,
+  "loggedFood" : {
+    "foodId" : 8220,
+    "locale" : "en_US",
+    "name" : "Ground Beef, Raw, 80% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 710,
+    "amount" : 10.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-18",
+  "favorite" : false
+},{
+  "logId" : 19797155667,
+  "loggedFood" : {
+    "foodId" : 82475,
+    "locale" : "en_US",
+    "name" : "American Cheese",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,304,251,226,180,147,389],
+    "calories" : 79,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-18",
+  "favorite" : false
+},{
+  "logId" : 19796648451,
+  "loggedFood" : {
+    "foodId" : 721589310,
+    "locale" : "en_US",
+    "name" : "Pork Loin Chops, Thick",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 520,
+    "amount" : 16.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 520,
+    "fat" : 18.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 840.0,
+    "protein" : 92.0
+  },
+  "logDate" : "2019-11-17",
+  "favorite" : false
+},{
+  "logId" : 19794976605,
+  "loggedFood" : {
+    "foodId" : 81574,
+    "locale" : "en_US",
+    "name" : "Thick Sliced Bacon",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,311,226,180,147,389],
+    "calories" : 376,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-17",
+  "favorite" : false
+},{
+  "logId" : 19795170822,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 960,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 960,
+    "fat" : 81.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 180.0,
+    "protein" : 57.0
+  },
+  "logDate" : "2019-11-17",
+  "favorite" : false
+},{
+  "logId" : 19793852959,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 275,
+    "amount" : 2.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-17",
+  "favorite" : false
+},{
+  "logId" : 19795987259,
+  "loggedFood" : {
+    "foodId" : 81170,
+    "locale" : "en_US",
+    "name" : "Bacon",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,341,304,226,180,147,389],
+    "calories" : 158,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-17",
+  "favorite" : false
+},{
+  "logId" : 19794895445,
+  "loggedFood" : {
+    "foodId" : 721617873,
+    "locale" : "en_US",
+    "name" : "Lump Crab Meat",
+    "brand" : "publix",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 115,
+    "amount" : 140.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 115,
+    "fat" : 0.82,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 411.77,
+    "protein" : 28.0
+  },
+  "logDate" : "2019-11-17",
+  "favorite" : false
+},{
+  "logId" : 19794384039,
+  "loggedFood" : {
+    "foodId" : 12552,
+    "locale" : "en_US",
+    "name" : "Flatfish, Flounder & Sole Species, Cooked",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [126,226,180,147,389],
+    "calories" : 296,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 126,
+      "name" : "fillet",
+      "plural" : "fillets"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-17",
+  "favorite" : false
+},{
+  "logId" : 19794905317,
+  "loggedFood" : {
+    "foodId" : 721589310,
+    "locale" : "en_US",
+    "name" : "Pork Loin Chops, Thick",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 195,
+    "amount" : 6.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 195,
+    "fat" : 6.75,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 315.0,
+    "protein" : 34.5
+  },
+  "logDate" : "2019-11-17",
+  "favorite" : false
+},{
+  "logId" : 19787468829,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 165,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-16",
+  "favorite" : false
+},{
+  "logId" : 19787714340,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 420,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 420,
+    "fat" : 30.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 780.0,
+    "protein" : 33.0
+  },
+  "logDate" : "2019-11-16",
+  "favorite" : false
+},{
+  "logId" : 19787724341,
+  "loggedFood" : {
+    "foodId" : 721617873,
+    "locale" : "en_US",
+    "name" : "Lump Crab Meat",
+    "brand" : "publix",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 115,
+    "amount" : 140.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 115,
+    "fat" : 0.82,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 411.77,
+    "protein" : 28.0
+  },
+  "logDate" : "2019-11-16",
+  "favorite" : false
+},{
+  "logId" : 19784999418,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 960,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 960,
+    "fat" : 81.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 180.0,
+    "protein" : 57.0
+  },
+  "logDate" : "2019-11-16",
+  "favorite" : false
+},{
+  "logId" : 19786196291,
+  "loggedFood" : {
+    "foodId" : 81170,
+    "locale" : "en_US",
+    "name" : "Bacon",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,341,304,226,180,147,389],
+    "calories" : 790,
+    "amount" : 10.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-16",
+  "favorite" : false
+},{
+  "logId" : 19787012962,
+  "loggedFood" : {
+    "foodId" : 82475,
+    "locale" : "en_US",
+    "name" : "American Cheese",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,304,251,226,180,147,389],
+    "calories" : 79,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-16",
+  "favorite" : false
+},{
+  "logId" : 19788163695,
+  "loggedFood" : {
+    "foodId" : 82475,
+    "locale" : "en_US",
+    "name" : "American Cheese",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,304,251,226,180,147,389],
+    "calories" : 79,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-16",
+  "favorite" : false
+},{
+  "logId" : 19786028946,
+  "loggedFood" : {
+    "foodId" : 775,
+    "locale" : "en_US",
+    "name" : "Egg, Chicken, Fried",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [179,226,180,147,389],
+    "calories" : 276,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 179,
+      "name" : "large",
+      "plural" : "larges"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-16",
+  "favorite" : false
+},{
+  "logId" : 19788016085,
+  "loggedFood" : {
+    "foodId" : 8220,
+    "locale" : "en_US",
+    "name" : "Ground Beef, Raw, 80% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 710,
+    "amount" : 10.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-16",
+  "favorite" : false
+},{
+  "logId" : 19788346889,
+  "loggedFood" : {
+    "foodId" : 8220,
+    "locale" : "en_US",
+    "name" : "Ground Beef, Raw, 80% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 355,
+    "amount" : 5.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-15",
+  "favorite" : false
+},{
+  "logId" : 19785690649,
+  "loggedFood" : {
+    "foodId" : 81170,
+    "locale" : "en_US",
+    "name" : "Bacon",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,341,304,226,180,147,389],
+    "calories" : 237,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-15",
+  "favorite" : false
+},{
+  "logId" : 19787402571,
+  "loggedFood" : {
+    "foodId" : 82475,
+    "locale" : "en_US",
+    "name" : "American Cheese",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,304,251,226,180,147,389],
+    "calories" : 78,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-11-15",
+  "favorite" : false
+}]

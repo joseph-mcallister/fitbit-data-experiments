@@ -1,0 +1,3873 @@
+[{
+  "dateTime" : "10/18/17 12:52:46",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/18/17 13:48:48",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 17,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/18/17 14:10:29",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/18/17 19:42:46",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/18/17 19:43:18",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 00:48:28",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 01:34:22",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 01:36:17",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 01:46:17",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 01:47:12",
+  "value" : {
+    "lapDurationSec" : 46,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 01:48:30",
+  "value" : {
+    "lapDurationSec" : 45,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 01:49:28",
+  "value" : {
+    "lapDurationSec" : 37,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 01:52:16",
+  "value" : {
+    "lapDurationSec" : 38,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 01:58:39",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 02:05:39",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 02:16:58",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 02:18:17",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 10:39:27",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 10:54:23",
+  "value" : {
+    "lapDurationSec" : 32,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 11:19:58",
+  "value" : {
+    "lapDurationSec" : 35,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 11:22:58",
+  "value" : {
+    "lapDurationSec" : 50,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 11:27:34",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 11:56:04",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 11:57:11",
+  "value" : {
+    "lapDurationSec" : 28,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 11:58:04",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 11:59:06",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:05:55",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:06:30",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:07:23",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:07:52",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:09:15",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:12:13",
+  "value" : {
+    "lapDurationSec" : 39,
+    "strokeCount" : 14,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:12:57",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:13:52",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:14:21",
+  "value" : {
+    "lapDurationSec" : 43,
+    "strokeCount" : 17,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:15:47",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:16:36",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:17:04",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:17:28",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:18:03",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:18:45",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:19:42",
+  "value" : {
+    "lapDurationSec" : 23,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:20:44",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:21:03",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:22:00",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:22:16",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:22:49",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:23:40",
+  "value" : {
+    "lapDurationSec" : 23,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:24:20",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:24:37",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:24:56",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:25:12",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:25:53",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:26:55",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:27:14",
+  "value" : {
+    "lapDurationSec" : 38,
+    "strokeCount" : 18,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:29:07",
+  "value" : {
+    "lapDurationSec" : 36,
+    "strokeCount" : 14,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:30:35",
+  "value" : {
+    "lapDurationSec" : 7,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:30:48",
+  "value" : {
+    "lapDurationSec" : 43,
+    "strokeCount" : 18,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:31:47",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:32:07",
+  "value" : {
+    "lapDurationSec" : 25,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:32:37",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 12:33:12",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:01:16",
+  "value" : {
+    "lapDurationSec" : 40,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:03:00",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:03:22",
+  "value" : {
+    "lapDurationSec" : 31,
+    "strokeCount" : 16,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:03:56",
+  "value" : {
+    "lapDurationSec" : 34,
+    "strokeCount" : 15,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:04:39",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:05:24",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:06:04",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:08:25",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:11:36",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:21:30",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:22:27",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:22:57",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:23:27",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:24:03",
+  "value" : {
+    "lapDurationSec" : 40,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:24:54",
+  "value" : {
+    "lapDurationSec" : 36,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:25:49",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:26:28",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:27:35",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:39:09",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:41:26",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:42:46",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:45:24",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:51:09",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:54:49",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:55:56",
+  "value" : {
+    "lapDurationSec" : 31,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:56:56",
+  "value" : {
+    "lapDurationSec" : 32,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:57:45",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:58:42",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:58:57",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 13:59:23",
+  "value" : {
+    "lapDurationSec" : 28,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:01:04",
+  "value" : {
+    "lapDurationSec" : 43,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:02:04",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:02:44",
+  "value" : {
+    "lapDurationSec" : 31,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:03:28",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:04:58",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:05:33",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:05:54",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:06:42",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:09:40",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:11:24",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 14:56:09",
+  "value" : {
+    "lapDurationSec" : 35,
+    "strokeCount" : 15,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:07:51",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:08:33",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:09:21",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:13:04",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:14:03",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:14:25",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:15:08",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:15:45",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:16:38",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:17:54",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:33:53",
+  "value" : {
+    "lapDurationSec" : 44,
+    "strokeCount" : 16,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:35:35",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:36:05",
+  "value" : {
+    "lapDurationSec" : 25,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:37:00",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:49:24",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:50:23",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:52:30",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:53:52",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:54:47",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:57:30",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:57:52",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:58:52",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 15:59:31",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:00:22",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:01:57",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:02:43",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:03:16",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:06:52",
+  "value" : {
+    "lapDurationSec" : 45,
+    "strokeCount" : 17,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:12:13",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:12:38",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:17:47",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:24:37",
+  "value" : {
+    "lapDurationSec" : 30,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:29:08",
+  "value" : {
+    "lapDurationSec" : 57,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:30:08",
+  "value" : {
+    "lapDurationSec" : 57,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:32:44",
+  "value" : {
+    "lapDurationSec" : 66,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:33:52",
+  "value" : {
+    "lapDurationSec" : 66,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:36:00",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:37:08",
+  "value" : {
+    "lapDurationSec" : 36,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 16:55:20",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 17:14:02",
+  "value" : {
+    "lapDurationSec" : 32,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 17:27:26",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 17:40:08",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 17:44:48",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 17:50:04",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 18:12:40",
+  "value" : {
+    "lapDurationSec" : 33,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 18:17:21",
+  "value" : {
+    "lapDurationSec" : 45,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 18:19:28",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 18:21:23",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 18:22:08",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 18:23:40",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 18:25:16",
+  "value" : {
+    "lapDurationSec" : 30,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 18:35:50",
+  "value" : {
+    "lapDurationSec" : 38,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 19:01:46",
+  "value" : {
+    "lapDurationSec" : 43,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 19:04:46",
+  "value" : {
+    "lapDurationSec" : 31,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 20:17:14",
+  "value" : {
+    "lapDurationSec" : 23,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 20:33:22",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 21:43:15",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 22:32:30",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 22:33:16",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 22:33:46",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 22:43:10",
+  "value" : {
+    "lapDurationSec" : 50,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 23:03:16",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 23:11:59",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 23:12:44",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/19/17 23:55:51",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 00:21:30",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 00:26:21",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 00:32:44",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 00:35:04",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 00:36:25",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 02:19:23",
+  "value" : {
+    "lapDurationSec" : 28,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 02:21:19",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 02:23:13",
+  "value" : {
+    "lapDurationSec" : 23,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 02:24:50",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 02:32:22",
+  "value" : {
+    "lapDurationSec" : 33,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 02:33:08",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 10:33:39",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:00:49",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:08:05",
+  "value" : {
+    "lapDurationSec" : 23,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:08:53",
+  "value" : {
+    "lapDurationSec" : 25,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:10:19",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:11:00",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:11:32",
+  "value" : {
+    "lapDurationSec" : 7,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:11:56",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:14:45",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:15:22",
+  "value" : {
+    "lapDurationSec" : 23,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:15:54",
+  "value" : {
+    "lapDurationSec" : 32,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:16:31",
+  "value" : {
+    "lapDurationSec" : 47,
+    "strokeCount" : 20,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:17:29",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:18:07",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:18:39",
+  "value" : {
+    "lapDurationSec" : 7,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:19:52",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:20:30",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:20:49",
+  "value" : {
+    "lapDurationSec" : 55,
+    "strokeCount" : 25,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:21:47",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:22:11",
+  "value" : {
+    "lapDurationSec" : 53,
+    "strokeCount" : 17,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:23:09",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:23:42",
+  "value" : {
+    "lapDurationSec" : 32,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:24:23",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:24:50",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:30:57",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:31:52",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:32:53",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:34:09",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:35:06",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:35:50",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:36:21",
+  "value" : {
+    "lapDurationSec" : 28,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:38:36",
+  "value" : {
+    "lapDurationSec" : 40,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:40:10",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:47:19",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:49:02",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:49:32",
+  "value" : {
+    "lapDurationSec" : 41,
+    "strokeCount" : 18,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:51:20",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:53:42",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:54:14",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:55:57",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:58:15",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 12:59:24",
+  "value" : {
+    "lapDurationSec" : 54,
+    "strokeCount" : 18,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:00:51",
+  "value" : {
+    "lapDurationSec" : 31,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:09:58",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:13:57",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:14:20",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:15:30",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:15:55",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:16:54",
+  "value" : {
+    "lapDurationSec" : 25,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:17:57",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:19:56",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:27:20",
+  "value" : {
+    "lapDurationSec" : 25,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:29:21",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:30:06",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:30:54",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:31:15",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:32:31",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:33:11",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:34:27",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:35:31",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:36:10",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:36:36",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:39:09",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:39:53",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:44:51",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 13:45:13",
+  "value" : {
+    "lapDurationSec" : 33,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:01:49",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:07:55",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:08:54",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:09:27",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:10:09",
+  "value" : {
+    "lapDurationSec" : 39,
+    "strokeCount" : 14,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:11:02",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:11:47",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:12:10",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:12:31",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:12:55",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:13:18",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:13:46",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:14:13",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 14:57:59",
+  "value" : {
+    "lapDurationSec" : 25,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:00:14",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:00:53",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:01:21",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:01:48",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:17:18",
+  "value" : {
+    "lapDurationSec" : 56,
+    "strokeCount" : 16,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:18:43",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:20:23",
+  "value" : {
+    "lapDurationSec" : 25,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:21:12",
+  "value" : {
+    "lapDurationSec" : 23,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:27:21",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:29:39",
+  "value" : {
+    "lapDurationSec" : 7,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:29:57",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:30:34",
+  "value" : {
+    "lapDurationSec" : 31,
+    "strokeCount" : 15,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 15:35:44",
+  "value" : {
+    "lapDurationSec" : 28,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 16:35:36",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 17:05:27",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 16,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 17:06:49",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 17:28:17",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 19:30:00",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 19:47:24",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 21:30:18",
+  "value" : {
+    "lapDurationSec" : 30,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/20/17 21:31:10",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 15,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 00:24:43",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 01:15:04",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 01:34:32",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 01:45:14",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 10:28:08",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:06:09",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:11:08",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:12:11",
+  "value" : {
+    "lapDurationSec" : 34,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:14:02",
+  "value" : {
+    "lapDurationSec" : 33,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:15:15",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:16:07",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:17:01",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:17:37",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:18:22",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:18:57",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:19:26",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:19:50",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:20:28",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:20:53",
+  "value" : {
+    "lapDurationSec" : 43,
+    "strokeCount" : 21,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:21:43",
+  "value" : {
+    "lapDurationSec" : 39,
+    "strokeCount" : 17,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:22:56",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:24:12",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:24:41",
+  "value" : {
+    "lapDurationSec" : 53,
+    "strokeCount" : 21,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:26:32",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:26:58",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:27:33",
+  "value" : {
+    "lapDurationSec" : 23,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:28:21",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:28:40",
+  "value" : {
+    "lapDurationSec" : 34,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:31:59",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:32:39",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:33:00",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:52:59",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:53:29",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:56:38",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:56:52",
+  "value" : {
+    "lapDurationSec" : 25,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:57:35",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:58:05",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 12:58:32",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:00:07",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:02:35",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:04:00",
+  "value" : {
+    "lapDurationSec" : 36,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:04:47",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:05:05",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:05:47",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:06:21",
+  "value" : {
+    "lapDurationSec" : 38,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:08:48",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:10:22",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:13:17",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:14:09",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:14:43",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:22:28",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:24:36",
+  "value" : {
+    "lapDurationSec" : 39,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:25:36",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:26:03",
+  "value" : {
+    "lapDurationSec" : 31,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:26:42",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:27:15",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:36:08",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:36:45",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:38:10",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:43:56",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 13:44:40",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 14:17:21",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 15:08:53",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 16,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 15:40:53",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 16:31:28",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 17,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 16:50:34",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 17:10:06",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 17:33:07",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 17:43:08",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 20:34:11",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 20:47:13",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 21:03:46",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 21:17:51",
+  "value" : {
+    "lapDurationSec" : 32,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 21:26:29",
+  "value" : {
+    "lapDurationSec" : 51,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 21:39:12",
+  "value" : {
+    "lapDurationSec" : 33,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 21:41:39",
+  "value" : {
+    "lapDurationSec" : 53,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 21:45:44",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 22:03:58",
+  "value" : {
+    "lapDurationSec" : 38,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/21/17 22:17:57",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:07:03",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:11:58",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:13:26",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:13:59",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:14:16",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:28:01",
+  "value" : {
+    "lapDurationSec" : 39,
+    "strokeCount" : 12,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:29:43",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:34:28",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:35:30",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:37:20",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:39:16",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 02:45:00",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:19:56",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:21:04",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:22:23",
+  "value" : {
+    "lapDurationSec" : 33,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:23:48",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:24:26",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:25:46",
+  "value" : {
+    "lapDurationSec" : 35,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:29:06",
+  "value" : {
+    "lapDurationSec" : 55,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:31:33",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:31:54",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:32:26",
+  "value" : {
+    "lapDurationSec" : 31,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:40:56",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:45:41",
+  "value" : {
+    "lapDurationSec" : 54,
+    "strokeCount" : 28,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 03:52:09",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 04:09:08",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 04:41:37",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 04:45:22",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 04:57:07",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 04:57:37",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 05:00:09",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 05:00:38",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 05:02:07",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 05:02:58",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 05:25:57",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 05:30:11",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 05:31:35",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 06:11:59",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 06:14:13",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 06:30:54",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 13:11:52",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 13:23:05",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 17:26:51",
+  "value" : {
+    "lapDurationSec" : 44,
+    "strokeCount" : 14,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 17:27:49",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 17:31:05",
+  "value" : {
+    "lapDurationSec" : 32,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 19:08:07",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 19:10:01",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 19:27:05",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 19:55:03",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/22/17 19:55:21",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 01:04:41",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 01:06:10",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 01:08:35",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 01:09:13",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 01:12:23",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 01:13:03",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 01:15:20",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 01:16:21",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 17:14:29",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 17:15:33",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 17:18:03",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 18,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 18:01:38",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 18:10:06",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 18:45:20",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 19:11:34",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 19:17:30",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 20:58:19",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:06:41",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:07:37",
+  "value" : {
+    "lapDurationSec" : 38,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:08:57",
+  "value" : {
+    "lapDurationSec" : 53,
+    "strokeCount" : 19,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:10:00",
+  "value" : {
+    "lapDurationSec" : 44,
+    "strokeCount" : 20,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:10:54",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:11:20",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:11:41",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:12:09",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:12:47",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:13:28",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:13:46",
+  "value" : {
+    "lapDurationSec" : 26,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:14:18",
+  "value" : {
+    "lapDurationSec" : 28,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:15:04",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:15:44",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:24:01",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:24:44",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:29:11",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:30:30",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:30:59",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:31:27",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:31:49",
+  "value" : {
+    "lapDurationSec" : 57,
+    "strokeCount" : 28,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:33:32",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:33:45",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:34:09",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:34:45",
+  "value" : {
+    "lapDurationSec" : 8,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:34:58",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:35:26",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 21:36:29",
+  "value" : {
+    "lapDurationSec" : 31,
+    "strokeCount" : 11,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 22:33:23",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 22:43:25",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 23:09:33",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 23:14:13",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 10,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 23:19:58",
+  "value" : {
+    "lapDurationSec" : 7,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 23:33:48",
+  "value" : {
+    "lapDurationSec" : 13,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/23/17 23:36:27",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 00:53:06",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 01:02:59",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 01:05:34",
+  "value" : {
+    "lapDurationSec" : 30,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 01:06:41",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 01:46:44",
+  "value" : {
+    "lapDurationSec" : 22,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 02:10:10",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 12:14:48",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 12:15:45",
+  "value" : {
+    "lapDurationSec" : 28,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 12:20:57",
+  "value" : {
+    "lapDurationSec" : 24,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 12:21:55",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 12:22:40",
+  "value" : {
+    "lapDurationSec" : 19,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 14:14:53",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 14:15:23",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 14:17:17",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 14:21:36",
+  "value" : {
+    "lapDurationSec" : 32,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 20:39:20",
+  "value" : {
+    "lapDurationSec" : 45,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 20:48:12",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 20:50:36",
+  "value" : {
+    "lapDurationSec" : 29,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/24/17 20:52:30",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/25/17 00:04:27",
+  "value" : {
+    "lapDurationSec" : 18,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/25/17 01:04:48",
+  "value" : {
+    "lapDurationSec" : 33,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/25/17 01:33:00",
+  "value" : {
+    "lapDurationSec" : 45,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "10/25/17 01:33:47",
+  "value" : {
+    "lapDurationSec" : 45,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+}]

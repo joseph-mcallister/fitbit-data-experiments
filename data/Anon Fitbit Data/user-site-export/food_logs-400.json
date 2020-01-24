@@ -1,0 +1,2571 @@
+[{
+  "logId" : 19785247951,
+  "loggedFood" : {
+    "foodId" : 721589310,
+    "locale" : "en_US",
+    "name" : "Pork Loin Chops, Thick",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 195,
+    "amount" : 6.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 195,
+    "fat" : 6.75,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 315.0,
+    "protein" : 34.5
+  },
+  "logDate" : "2019-11-15",
+  "favorite" : false
+},{
+  "logId" : 19778058784,
+  "loggedFood" : {
+    "foodId" : 745176874,
+    "locale" : "en_US",
+    "name" : "Pork Rinds, Original",
+    "brand" : "UTZ",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 106,
+    "amount" : 0.66,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 106,
+    "fat" : 7.92,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 277.2,
+    "protein" : 10.56
+  },
+  "logDate" : "2019-11-15",
+  "favorite" : false
+},{
+  "logId" : 19777665094,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 110,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-15",
+  "favorite" : false
+},{
+  "logId" : 19779190884,
+  "loggedFood" : {
+    "foodId" : 775,
+    "locale" : "en_US",
+    "name" : "Egg, Chicken, Fried",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [179,226,180,147,389],
+    "calories" : 184,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 179,
+      "name" : "large",
+      "plural" : "larges"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-15",
+  "favorite" : false
+},{
+  "logId" : 19780086665,
+  "loggedFood" : {
+    "foodId" : 81170,
+    "locale" : "en_US",
+    "name" : "Bacon",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,341,304,226,180,147,389],
+    "calories" : 237,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-15",
+  "favorite" : false
+},{
+  "logId" : 19778167474,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 960,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 960,
+    "fat" : 81.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 180.0,
+    "protein" : 57.0
+  },
+  "logDate" : "2019-11-15",
+  "favorite" : false
+},{
+  "logId" : 19777814826,
+  "loggedFood" : {
+    "foodId" : 693570357,
+    "locale" : "en_US",
+    "name" : "Lump Crab Meat",
+    "brand" : "Blue Star",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 218,
+    "amount" : 2.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 218,
+    "fat" : 3.75,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 592.5,
+    "protein" : 42.5
+  },
+  "logDate" : "2019-11-14",
+  "favorite" : false
+},{
+  "logId" : 19767302180,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 960,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 960,
+    "fat" : 81.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 180.0,
+    "protein" : 57.0
+  },
+  "logDate" : "2019-11-14",
+  "favorite" : false
+},{
+  "logId" : 19767419714,
+  "loggedFood" : {
+    "foodId" : 81170,
+    "locale" : "en_US",
+    "name" : "Bacon",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,341,304,226,180,147,389],
+    "calories" : 158,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-14",
+  "favorite" : false
+},{
+  "logId" : 19777549128,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 280,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 520.0,
+    "protein" : 22.0
+  },
+  "logDate" : "2019-11-14",
+  "favorite" : false
+},{
+  "logId" : 19786986750,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 110,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-14",
+  "favorite" : false
+},{
+  "logId" : 19760903969,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 960,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 960,
+    "fat" : 81.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 180.0,
+    "protein" : 57.0
+  },
+  "logDate" : "2019-11-13",
+  "favorite" : false
+},{
+  "logId" : 19760609092,
+  "loggedFood" : {
+    "foodId" : 721617873,
+    "locale" : "en_US",
+    "name" : "Lump Crab Meat",
+    "brand" : "publix",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 99,
+    "amount" : 120.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 99,
+    "fat" : 0.71,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 352.94,
+    "protein" : 24.0
+  },
+  "logDate" : "2019-11-13",
+  "favorite" : false
+},{
+  "logId" : 19766660167,
+  "loggedFood" : {
+    "foodId" : 721617873,
+    "locale" : "en_US",
+    "name" : "Lump Crab Meat",
+    "brand" : "publix",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 99,
+    "amount" : 120.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 99,
+    "fat" : 0.71,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 352.94,
+    "protein" : 24.0
+  },
+  "logDate" : "2019-11-13",
+  "favorite" : false
+},{
+  "logId" : 19768332137,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 960,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 960,
+    "fat" : 81.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 180.0,
+    "protein" : 57.0
+  },
+  "logDate" : "2019-11-13",
+  "favorite" : false
+},{
+  "logId" : 19769974683,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 110,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-13",
+  "favorite" : false
+},{
+  "logId" : 19766682575,
+  "loggedFood" : {
+    "foodId" : 81954,
+    "locale" : "en_US",
+    "name" : "Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 220,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-11-13",
+  "favorite" : false
+},{
+  "logId" : 19758236648,
+  "loggedFood" : {
+    "foodId" : 749129463,
+    "locale" : "en_US",
+    "name" : "Lamb Chops",
+    "brand" : "Texas De Brazil",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 420,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 420,
+    "fat" : 30.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 780.0,
+    "protein" : 33.0
+  },
+  "logDate" : "2019-11-13",
+  "favorite" : false
+},{
+  "logId" : 18547154768,
+  "loggedFood" : {
+    "foodId" : 82547,
+    "locale" : "en_US",
+    "name" : "Blueberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,20,91,256,279,226,180,147,389],
+    "calories" : 41,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2019-07-11",
+  "favorite" : false
+},{
+  "logId" : 18547060147,
+  "loggedFood" : {
+    "foodId" : 744465914,
+    "locale" : "en_US",
+    "name" : "Chocolate Chip Cookie Dough",
+    "brand" : "Bhu Keto",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 356,
+    "amount" : 80.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 356,
+    "fat" : 26.67,
+    "fiber" : 17.78,
+    "carbs" : 24.89,
+    "sodium" : 160.0,
+    "protein" : 19.56
+  },
+  "logDate" : "2019-07-11",
+  "favorite" : false
+},{
+  "logId" : 18546726022,
+  "loggedFood" : {
+    "foodId" : 721589383,
+    "locale" : "en_US",
+    "name" : "Scallops",
+    "brand" : "Sea Best",
+    "accessLevel" : "PUBLIC",
+    "units" : [502,226,180,147,389],
+    "calories" : 250,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 502,
+      "name" : "scallop",
+      "plural" : "scallops"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 250,
+    "fat" : 2.0,
+    "fiber" : 0.0,
+    "carbs" : 4.0,
+    "sodium" : 520.0,
+    "protein" : 42.0
+  },
+  "logDate" : "2019-07-11",
+  "favorite" : false
+},{
+  "logId" : 18547985093,
+  "loggedFood" : {
+    "foodId" : 692829968,
+    "locale" : "en_US",
+    "name" : "Ribeye Steak",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 960,
+    "amount" : 12.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 960,
+    "fat" : 81.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 180.0,
+    "protein" : 57.0
+  },
+  "logDate" : "2019-07-11",
+  "favorite" : false
+},{
+  "logId" : 18547031593,
+  "loggedFood" : {
+    "foodId" : 692160450,
+    "locale" : "en_US",
+    "name" : "Salted Almond & Milk",
+    "brand" : "Lily's",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 180,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 15.0,
+    "fiber" : 11.0,
+    "carbs" : 21.0,
+    "sodium" : 25.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2019-07-11",
+  "favorite" : false
+},{
+  "logId" : 18547708472,
+  "loggedFood" : {
+    "foodId" : 692163415,
+    "locale" : "en_US",
+    "name" : "Biscoff",
+    "brand" : "Lotus",
+    "accessLevel" : "PUBLIC",
+    "units" : [70,226,180,147,389],
+    "calories" : 120,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 70,
+      "name" : "cookie",
+      "plural" : "cookies"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 120,
+    "fat" : 5.0,
+    "fiber" : 0.0,
+    "carbs" : 18.0,
+    "sodium" : 90.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2019-07-11",
+  "favorite" : false
+},{
+  "logId" : 18547441611,
+  "loggedFood" : {
+    "foodId" : 727994267,
+    "locale" : "en_US",
+    "name" : "Carmelized & Salted Milk Chocolate",
+    "brand" : "Lily's",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 160,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 160,
+    "fat" : 15.0,
+    "fiber" : 12.0,
+    "carbs" : 22.0,
+    "sodium" : 90.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2019-07-11",
+  "favorite" : false
+},{
+  "logId" : 18539109399,
+  "loggedFood" : {
+    "foodId" : 775,
+    "locale" : "en_US",
+    "name" : "Egg, Chicken, Fried",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [179,226,180,147,389],
+    "calories" : 184,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 179,
+      "name" : "large",
+      "plural" : "larges"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2019-07-11",
+  "favorite" : false
+},{
+  "logId" : 18537612164,
+  "loggedFood" : {
+    "foodId" : 81170,
+    "locale" : "en_US",
+    "name" : "Bacon",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,341,304,226,180,147,389],
+    "calories" : 158,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2019-07-11",
+  "favorite" : false
+},{
+  "logId" : 18538403751,
+  "loggedFood" : {
+    "foodId" : 14017762,
+    "locale" : "en_US",
+    "name" : "Home Fries",
+    "brand" : "Eat'n Park",
+    "accessLevel" : "PUBLIC",
+    "units" : [304],
+    "calories" : 210,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 210,
+    "fat" : 12.0,
+    "fiber" : 2.0,
+    "carbs" : 23.0,
+    "sodium" : 180.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2019-07-11",
+  "favorite" : false
+},{
+  "logId" : 18531654745,
+  "loggedFood" : {
+    "foodId" : 692160460,
+    "locale" : "en_US",
+    "name" : "Sliced Turkey Breast",
+    "brand" : "Lilydale",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 257,
+    "amount" : 11.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 257,
+    "fat" : 5.5,
+    "fiber" : 0.0,
+    "carbs" : 3.67,
+    "sodium" : 1320.0,
+    "protein" : 51.33
+  },
+  "logDate" : "2019-07-10",
+  "favorite" : false
+},{
+  "logId" : 18530513803,
+  "loggedFood" : {
+    "foodId" : 13966160,
+    "locale" : "en_US",
+    "name" : "Burger Patty",
+    "brand" : "A&W Restaurants",
+    "accessLevel" : "PUBLIC",
+    "units" : [238,304,226,180,147,389],
+    "calories" : 300,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 238,
+      "name" : "patty",
+      "plural" : "patties"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 300,
+    "fat" : 24.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 90.0,
+    "protein" : 22.0
+  },
+  "logDate" : "2019-07-10",
+  "favorite" : false
+},{
+  "logId" : 18525982882,
+  "loggedFood" : {
+    "foodId" : 692160460,
+    "locale" : "en_US",
+    "name" : "Sliced Turkey Breast",
+    "brand" : "Lilydale",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 70,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 70,
+    "fat" : 1.5,
+    "fiber" : 0.0,
+    "carbs" : 1.0,
+    "sodium" : 360.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2019-07-10",
+  "favorite" : false
+},{
+  "logId" : 18529838002,
+  "loggedFood" : {
+    "foodId" : 14737818,
+    "locale" : "en_US",
+    "name" : "Bread, Multigrain",
+    "brand" : "Schar",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,311,226,180,147,389],
+    "calories" : 240,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 240,
+    "fat" : 2.25,
+    "fiber" : 4.5,
+    "carbs" : 52.5,
+    "sodium" : 330.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2019-07-10",
+  "favorite" : false
+},{
+  "logId" : 18525516998,
+  "loggedFood" : {
+    "foodId" : 721550371,
+    "locale" : "en_US",
+    "name" : "Baby Carrots",
+    "brand" : "Western Family",
+    "accessLevel" : "PUBLIC",
+    "units" : [251,226,180,147,389],
+    "calories" : 18,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 18,
+    "fat" : 0.0,
+    "fiber" : 1.2,
+    "carbs" : 4.2,
+    "sodium" : 39.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2019-07-10",
+  "favorite" : false
+},{
+  "logId" : 18525486169,
+  "loggedFood" : {
+    "foodId" : 19241,
+    "locale" : "en_US",
+    "name" : "Strawberry, Unsweetened",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [20,91,256,279,226,180,147,389],
+    "calories" : 12,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 20,
+      "name" : "berry",
+      "plural" : "berries"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2019-07-10",
+  "favorite" : false
+},{
+  "logId" : 18524323427,
+  "loggedFood" : {
+    "foodId" : 82547,
+    "locale" : "en_US",
+    "name" : "Blueberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,20,91,256,279,226,180,147,389],
+    "calories" : 41,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2019-07-10",
+  "favorite" : false
+},{
+  "logId" : 18524113815,
+  "loggedFood" : {
+    "foodId" : 14667307,
+    "locale" : "en_US",
+    "name" : "Natural Strawberry Fruit Spread",
+    "brand" : "Smucker's",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 40,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 40,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 10.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2019-07-10",
+  "favorite" : false
+},{
+  "logId" : 18525114844,
+  "loggedFood" : {
+    "foodId" : 14737818,
+    "locale" : "en_US",
+    "name" : "Bread, Multigrain",
+    "brand" : "Schar",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,311,226,180,147,389],
+    "calories" : 160,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 160,
+    "fat" : 1.5,
+    "fiber" : 3.0,
+    "carbs" : 35.0,
+    "sodium" : 220.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2019-07-10",
+  "favorite" : false
+},{
+  "logId" : 18524399615,
+  "loggedFood" : {
+    "foodId" : 746315389,
+    "locale" : "en_US",
+    "name" : "Cinnamon Bun",
+    "brand" : "The Cereal School",
+    "accessLevel" : "PUBLIC",
+    "units" : [11,226,180,147,389],
+    "calories" : 70,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 11,
+      "name" : "bag",
+      "plural" : "bags"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 70,
+    "fat" : 1.0,
+    "fiber" : 5.0,
+    "carbs" : 15.0,
+    "sodium" : 110.0,
+    "protein" : 8.0
+  },
+  "logDate" : "2019-07-10",
+  "favorite" : false
+},{
+  "logId" : 18518402840,
+  "loggedFood" : {
+    "foodId" : 23908725,
+    "locale" : "en_US",
+    "name" : "Activia Strawberry Yogurt",
+    "brand" : "Danone",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 100,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 100,
+    "fat" : 3.0,
+    "fiber" : 0.0,
+    "carbs" : 15.0,
+    "sodium" : 40.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18524208955,
+  "loggedFood" : {
+    "foodId" : 692781704,
+    "locale" : "en_US",
+    "name" : "Jasmine Rice",
+    "brand" : "Rice on the side",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 180,
+    "amount" : 0.25,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 0.0,
+    "fiber" : 1.0,
+    "carbs" : 40.0,
+    "sodium" : 0.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18520652439,
+  "loggedFood" : {
+    "foodId" : 82547,
+    "locale" : "en_US",
+    "name" : "Blueberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,20,91,256,279,226,180,147,389],
+    "calories" : 41,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18518965503,
+  "loggedFood" : {
+    "foodId" : 19241,
+    "locale" : "en_US",
+    "name" : "Strawberry, Unsweetened",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [20,91,256,279,226,180,147,389],
+    "calories" : 21,
+    "amount" : 7.0,
+    "unit" : {
+      "id" : 20,
+      "name" : "berry",
+      "plural" : "berries"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18519627166,
+  "loggedFood" : {
+    "foodId" : 692761975,
+    "locale" : "en_US",
+    "name" : "Chicken Fried Rice",
+    "brand" : "P.F. Chang's",
+    "accessLevel" : "PUBLIC",
+    "units" : [228,226,180,147,389],
+    "calories" : 410,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 228,
+      "name" : "package",
+      "plural" : "packages"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 410,
+    "fat" : 9.0,
+    "fiber" : 4.0,
+    "carbs" : 58.0,
+    "sodium" : 990.0,
+    "protein" : 23.0
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18519455670,
+  "loggedFood" : {
+    "foodId" : 692781704,
+    "locale" : "en_US",
+    "name" : "Jasmine Rice",
+    "brand" : "Rice on the side",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 180,
+    "amount" : 0.25,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 0.0,
+    "fiber" : 1.0,
+    "carbs" : 40.0,
+    "sodium" : 0.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18513193991,
+  "loggedFood" : {
+    "foodId" : 692849780,
+    "locale" : "en_US",
+    "name" : "Yogurt, Strawberry",
+    "brand" : "Yoplait",
+    "accessLevel" : "PUBLIC",
+    "units" : [69],
+    "calories" : 170,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 69,
+      "name" : "container",
+      "plural" : "containers"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 170,
+    "fat" : 1.5,
+    "fiber" : 0.0,
+    "carbs" : 33.0,
+    "sodium" : 85.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18513145887,
+  "loggedFood" : {
+    "foodId" : 16467,
+    "locale" : "en_US",
+    "name" : "Blueberry, Sweetened, Frozen",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 61,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18511373934,
+  "loggedFood" : {
+    "foodId" : 81170,
+    "locale" : "en_US",
+    "name" : "Bacon",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,341,304,226,180,147,389],
+    "calories" : 316,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18511469292,
+  "loggedFood" : {
+    "foodId" : 19241,
+    "locale" : "en_US",
+    "name" : "Strawberry, Unsweetened",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [20,91,256,279,226,180,147,389],
+    "calories" : 15,
+    "amount" : 5.0,
+    "unit" : {
+      "id" : 20,
+      "name" : "berry",
+      "plural" : "berries"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18513193978,
+  "loggedFood" : {
+    "foodId" : 544,
+    "locale" : "en_US",
+    "name" : "Egg, Chicken, Scrambled",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [179,349,364,91,256,279,226,180,147,389],
+    "calories" : 202,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 179,
+      "name" : "large",
+      "plural" : "larges"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2019-07-09",
+  "favorite" : false
+},{
+  "logId" : 18511618065,
+  "loggedFood" : {
+    "foodId" : 692781704,
+    "locale" : "en_US",
+    "name" : "Jasmine Rice",
+    "brand" : "Rice on the side",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 180,
+    "amount" : 0.25,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 180,
+    "fat" : 0.0,
+    "fiber" : 1.0,
+    "carbs" : 40.0,
+    "sodium" : 0.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2019-07-08",
+  "favorite" : false
+},{
+  "logId" : 18512447446,
+  "loggedFood" : {
+    "foodId" : 692138426,
+    "locale" : "en_US",
+    "name" : "Curry Chicken with Rice",
+    "brand" : "K.J. Foods",
+    "accessLevel" : "PUBLIC",
+    "units" : [361,226,180,147,389],
+    "calories" : 590,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 361,
+      "name" : "tray",
+      "plural" : "traies"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 590,
+    "fat" : 14.0,
+    "fiber" : 3.0,
+    "carbs" : 91.0,
+    "sodium" : 640.0,
+    "protein" : 23.0
+  },
+  "logDate" : "2019-07-08",
+  "favorite" : false
+},{
+  "logId" : 18507646231,
+  "loggedFood" : {
+    "foodId" : 725731433,
+    "locale" : "en_US",
+    "name" : "Smothered Chicken topped with Jack Cheese",
+    "brand" : "Texas Roadhouse",
+    "accessLevel" : "PUBLIC",
+    "units" : [304],
+    "calories" : 430,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 430,
+    "fat" : 25.0,
+    "fiber" : 1.0,
+    "carbs" : 5.0,
+    "sodium" : 790.0,
+    "protein" : 43.0
+  },
+  "logDate" : "2019-07-08",
+  "favorite" : false
+},{
+  "logId" : 18507379274,
+  "loggedFood" : {
+    "foodId" : 82358,
+    "locale" : "en_US",
+    "name" : "Mashed Potatoes",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,91,256,279,226,180,147,389],
+    "calories" : 230,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-07-08",
+  "favorite" : false
+},{
+  "logId" : 18508103318,
+  "loggedFood" : {
+    "foodId" : 17124,
+    "locale" : "en_US",
+    "name" : "Broccoli, Raw",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [324,304,334,38,91,256,279,226,180,147,389],
+    "calories" : 70,
+    "amount" : 7.0,
+    "unit" : {
+      "id" : 324,
+      "name" : "spear",
+      "plural" : "spears"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2019-07-08",
+  "favorite" : false
+},{
+  "logId" : 18498269570,
+  "loggedFood" : {
+    "foodId" : 17959797,
+    "locale" : "en_US",
+    "name" : "Penne, Gluten Free",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [29,226,180,147,389],
+    "calories" : 413,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 29,
+      "name" : "box",
+      "plural" : "boxes"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 413,
+    "fat" : 2.06,
+    "fiber" : 2.06,
+    "carbs" : 90.75,
+    "sodium" : 0.0,
+    "protein" : 8.25
+  },
+  "logDate" : "2019-07-08",
+  "favorite" : false
+},{
+  "logId" : 18495361139,
+  "loggedFood" : {
+    "foodId" : 17959797,
+    "locale" : "en_US",
+    "name" : "Penne, Gluten Free",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [29,226,180,147,389],
+    "calories" : 825,
+    "amount" : 0.66,
+    "unit" : {
+      "id" : 29,
+      "name" : "box",
+      "plural" : "boxes"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 825,
+    "fat" : 4.13,
+    "fiber" : 4.13,
+    "carbs" : 181.5,
+    "sodium" : 0.0,
+    "protein" : 16.5
+  },
+  "logDate" : "2019-07-07",
+  "favorite" : false
+},{
+  "logId" : 18495416207,
+  "loggedFood" : {
+    "foodId" : 719117518,
+    "locale" : "en_US",
+    "name" : "Spare Ribs, 10 Bone Serving",
+    "brand" : "Mission BBQ",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,304,226,180,147,389],
+    "calories" : 984,
+    "amount" : 6.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 984,
+    "fat" : 82.8,
+    "fiber" : 0.6,
+    "carbs" : 2.4,
+    "sodium" : 1062.0,
+    "protein" : 54.6
+  },
+  "logDate" : "2019-07-07",
+  "favorite" : false
+},{
+  "logId" : 18495432351,
+  "loggedFood" : {
+    "foodId" : 22792979,
+    "locale" : "en_US",
+    "name" : "Gluten Free Spaghetti",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [29,226,180,147,389],
+    "calories" : 776,
+    "amount" : 0.66,
+    "unit" : {
+      "id" : 29,
+      "name" : "box",
+      "plural" : "boxes"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 776,
+    "fat" : 3.88,
+    "fiber" : 3.88,
+    "carbs" : 174.71,
+    "sodium" : 0.0,
+    "protein" : 15.53
+  },
+  "logDate" : "2019-07-07",
+  "favorite" : false
+},{
+  "logId" : 18495953925,
+  "loggedFood" : {
+    "foodId" : 14032093,
+    "locale" : "en_US",
+    "name" : "Roasted Chili-Corn Salsa",
+    "brand" : "Chipotle",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 80,
+    "amount" : 3.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 1.5,
+    "fiber" : 3.0,
+    "carbs" : 16.0,
+    "sodium" : 330.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2019-07-07",
+  "favorite" : false
+},{
+  "logId" : 18493003323,
+  "loggedFood" : {
+    "foodId" : 14032134,
+    "locale" : "en_US",
+    "name" : "Fresh Tomato Salsa",
+    "brand" : "Chipotle",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 25,
+    "amount" : 3.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 25,
+    "fat" : 0.0,
+    "fiber" : 1.0,
+    "carbs" : 4.0,
+    "sodium" : 550.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2019-07-07",
+  "favorite" : false
+},{
+  "logId" : 18495296831,
+  "loggedFood" : {
+    "foodId" : 14032091,
+    "locale" : "en_US",
+    "name" : "White Rice",
+    "brand" : "Chipotle",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 210,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 210,
+    "fat" : 4.0,
+    "fiber" : 1.0,
+    "carbs" : 40.0,
+    "sodium" : 350.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2019-07-07",
+  "favorite" : false
+},{
+  "logId" : 18495668158,
+  "loggedFood" : {
+    "foodId" : 5548424,
+    "locale" : "en_US",
+    "name" : "Burrito Bowl Ingredient, Steak",
+    "brand" : "Chipotle Mexican Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 190,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "26BN3F"
+  },
+  "logDate" : "2019-07-07",
+  "favorite" : false
+},{
+  "logId" : 18492657941,
+  "loggedFood" : {
+    "foodId" : 750555717,
+    "locale" : "en_US",
+    "name" : "Applewood Smoked Bacon, Fully Cooked Uncured",
+    "brand" : "Greenfield Natural Meat Co.",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 107,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 107,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 266.67,
+    "protein" : 8.0
+  },
+  "logDate" : "2019-07-06",
+  "favorite" : false
+},{
+  "logId" : 18492191836,
+  "loggedFood" : {
+    "foodId" : 27022,
+    "locale" : "en_US",
+    "name" : "Ground Chuck, Broiled, 80% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [238,226,180,147,389],
+    "calories" : 416,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 238,
+      "name" : "patty",
+      "plural" : "patties"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2019-07-06",
+  "favorite" : false
+},{
+  "logId" : 18490239870,
+  "loggedFood" : {
+    "foodId" : 692816582,
+    "locale" : "en_US",
+    "name" : "Sliced Cheese, American",
+    "brand" : "The Fresh Market",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 220,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 220,
+    "fat" : 18.0,
+    "fiber" : 0.0,
+    "carbs" : 2.0,
+    "sodium" : 760.0,
+    "protein" : 12.0
+  },
+  "logDate" : "2019-07-06",
+  "favorite" : false
+},{
+  "logId" : 18490298745,
+  "loggedFood" : {
+    "foodId" : 692811548,
+    "locale" : "en_US",
+    "name" : "Sushi, California Roll",
+    "brand" : "Sushi House",
+    "accessLevel" : "PUBLIC",
+    "units" : [251,226,180,147,389],
+    "calories" : 204,
+    "amount" : 6.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 204,
+    "fat" : 7.2,
+    "fiber" : 2.4,
+    "carbs" : 31.2,
+    "sodium" : 300.0,
+    "protein" : 4.8
+  },
+  "logDate" : "2019-07-06",
+  "favorite" : false
+},{
+  "logId" : 18491270389,
+  "loggedFood" : {
+    "foodId" : 13982385,
+    "locale" : "en_US",
+    "name" : "Tuna Roll (6 pieces)",
+    "brand" : "Sansai Japanese Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [251,226,180,147,389],
+    "calories" : 160,
+    "amount" : 6.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 160,
+    "fat" : 2.5,
+    "fiber" : 1.0,
+    "carbs" : 24.0,
+    "sodium" : 340.0,
+    "protein" : 10.0
+  },
+  "logDate" : "2019-07-06",
+  "favorite" : false
+},{
+  "logId" : 18487339516,
+  "loggedFood" : {
+    "foodId" : 730351130,
+    "locale" : "en_US",
+    "name" : "Sushi",
+    "brand" : "Sushi Do",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 182,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 182,
+    "fat" : 6.67,
+    "fiber" : 0.44,
+    "carbs" : 25.33,
+    "sodium" : 302.22,
+    "protein" : 3.56
+  },
+  "logDate" : "2019-07-06",
+  "favorite" : false
+},{
+  "logId" : 18486067739,
+  "loggedFood" : {
+    "foodId" : 756373870,
+    "name" : "Low-Carb Bagel",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 360,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "37923L"
+  },
+  "logDate" : "2019-07-06",
+  "favorite" : false
+},{
+  "logId" : 18488295400,
+  "loggedFood" : {
+    "foodId" : 22792979,
+    "locale" : "en_US",
+    "name" : "Gluten Free Spaghetti",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [29,226,180,147,389],
+    "calories" : 294,
+    "amount" : 0.25,
+    "unit" : {
+      "id" : 29,
+      "name" : "box",
+      "plural" : "boxes"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 294,
+    "fat" : 1.47,
+    "fiber" : 1.47,
+    "carbs" : 66.18,
+    "sodium" : 0.0,
+    "protein" : 5.88
+  },
+  "logDate" : "2019-07-06",
+  "favorite" : false
+},{
+  "logId" : 18483157766,
+  "loggedFood" : {
+    "foodId" : 5548490,
+    "locale" : "en_US",
+    "name" : "Burrito Bowl Ingredient, Brown Rice",
+    "brand" : "Chipotle Mexican Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 160,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "26BN3F"
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 18482224908,
+  "loggedFood" : {
+    "foodId" : 14032093,
+    "locale" : "en_US",
+    "name" : "Roasted Chili-Corn Salsa",
+    "brand" : "Chipotle",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 80,
+    "amount" : 3.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 1.5,
+    "fiber" : 3.0,
+    "carbs" : 16.0,
+    "sodium" : 330.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 18481769017,
+  "loggedFood" : {
+    "foodId" : 14057279,
+    "locale" : "en_US",
+    "name" : "Corn Chowder with Lump Crab, Bowl",
+    "brand" : "Bonefish Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,28],
+    "calories" : 410,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 28,
+      "name" : "bowl",
+      "plural" : "bowls"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 410,
+    "fat" : 31.0,
+    "fiber" : 2.0,
+    "carbs" : 17.0,
+    "sodium" : 1070.0,
+    "protein" : 8.0
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 18479853398,
+  "loggedFood" : {
+    "foodId" : 14032134,
+    "locale" : "en_US",
+    "name" : "Fresh Tomato Salsa",
+    "brand" : "Chipotle",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 25,
+    "amount" : 3.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 25,
+    "fat" : 0.0,
+    "fiber" : 1.0,
+    "carbs" : 4.0,
+    "sodium" : 550.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 18481577343,
+  "loggedFood" : {
+    "foodId" : 5548424,
+    "locale" : "en_US",
+    "name" : "Burrito Bowl Ingredient, Steak",
+    "brand" : "Chipotle Mexican Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 380,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "26BN3F"
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 18483093476,
+  "loggedFood" : {
+    "foodId" : 693566916,
+    "locale" : "en_US",
+    "name" : "Rib-Eye Steak",
+    "brand" : "Bonefish Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 1343,
+    "amount" : 18.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 1343,
+    "fat" : 102.46,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 2700.0,
+    "protein" : 96.92
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 18483074294,
+  "loggedFood" : {
+    "foodId" : 14057203,
+    "locale" : "en_US",
+    "name" : "Steamed Broccoli",
+    "brand" : "Bonefish Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [304],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 5.0,
+    "fiber" : 3.0,
+    "carbs" : 8.0,
+    "sodium" : 250.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 18480677690,
+  "loggedFood" : {
+    "foodId" : 5548424,
+    "locale" : "en_US",
+    "name" : "Burrito Bowl Ingredient, Steak",
+    "brand" : "Chipotle Mexican Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 190,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "26BN3F"
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 18477955949,
+  "loggedFood" : {
+    "foodId" : 5548490,
+    "locale" : "en_US",
+    "name" : "Burrito Bowl Ingredient, Brown Rice",
+    "brand" : "Chipotle Mexican Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 160,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "26BN3F"
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 18481106067,
+  "loggedFood" : {
+    "foodId" : 14032093,
+    "locale" : "en_US",
+    "name" : "Roasted Chili-Corn Salsa",
+    "brand" : "Chipotle",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 80,
+    "amount" : 3.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 1.5,
+    "fiber" : 3.0,
+    "carbs" : 16.0,
+    "sodium" : 330.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 18477279185,
+  "loggedFood" : {
+    "foodId" : 14032134,
+    "locale" : "en_US",
+    "name" : "Fresh Tomato Salsa",
+    "brand" : "Chipotle",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 25,
+    "amount" : 3.5,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 25,
+    "fat" : 0.0,
+    "fiber" : 1.0,
+    "carbs" : 4.0,
+    "sodium" : 550.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2019-07-05",
+  "favorite" : false
+},{
+  "logId" : 12377270291,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Snacks Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 1090,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 1090,
+    "fat" : 24.0,
+    "fiber" : 27.0,
+    "carbs" : 176.0,
+    "sodium" : 720.0,
+    "protein" : 63.0
+  },
+  "logDate" : "2017-10-11",
+  "favorite" : false
+},{
+  "logId" : 12376345756,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinner Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 622,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 622,
+    "fat" : 31.0,
+    "fiber" : 4.0,
+    "carbs" : 11.0,
+    "sodium" : 698.0,
+    "protein" : 72.0
+  },
+  "logDate" : "2017-10-11",
+  "favorite" : false
+},{
+  "logId" : 12376058727,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Lunch Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 938,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 938,
+    "fat" : 48.0,
+    "fiber" : 8.0,
+    "carbs" : 70.0,
+    "sodium" : 4.0,
+    "protein" : 64.0
+  },
+  "logDate" : "2017-10-11",
+  "favorite" : false
+},{
+  "logId" : 12380599348,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Breakfast Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 1329,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 1329,
+    "fat" : 77.0,
+    "fiber" : 3.0,
+    "carbs" : 1277.0,
+    "sodium" : 943.0,
+    "protein" : 64.0
+  },
+  "logDate" : "2017-10-11",
+  "favorite" : false
+},{
+  "logId" : 12303881707,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Snacks Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 380,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 380,
+    "fat" : 17.0,
+    "fiber" : 20.0,
+    "carbs" : 38.0,
+    "sodium" : 345.0,
+    "protein" : 34.0
+  },
+  "logDate" : "2017-10-03",
+  "favorite" : false
+},{
+  "logId" : 12303615186,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Breakfast Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 350,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 350,
+    "fat" : 18.0,
+    "fiber" : 0.0,
+    "carbs" : 30.0,
+    "sodium" : 820.0,
+    "protein" : 17.0
+  },
+  "logDate" : "2017-10-03",
+  "favorite" : false
+},{
+  "logId" : 12183555316,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Breakfast Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 524,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 524,
+    "fat" : 41.0,
+    "fiber" : 1.0,
+    "carbs" : 24.0,
+    "sodium" : 670.0,
+    "protein" : 30.0
+  },
+  "logDate" : "2017-09-19",
+  "favorite" : false
+},{
+  "logId" : 12179089256,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Snacks Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 726,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 726,
+    "fat" : 24.0,
+    "fiber" : 23.0,
+    "carbs" : 90.0,
+    "sodium" : 664.0,
+    "protein" : 55.0
+  },
+  "logDate" : "2017-09-18",
+  "favorite" : false
+},{
+  "logId" : 12177651419,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinner Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 916,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 916,
+    "fat" : 22.0,
+    "fiber" : 8.0,
+    "carbs" : 97.0,
+    "sodium" : 1680.0,
+    "protein" : 84.0
+  },
+  "logDate" : "2017-09-18",
+  "favorite" : false
+},{
+  "logId" : 12177776571,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Lunch Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 562,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 562,
+    "fat" : 26.0,
+    "fiber" : 2.0,
+    "carbs" : 53.0,
+    "sodium" : 2300.0,
+    "protein" : 30.0
+  },
+  "logDate" : "2017-09-18",
+  "favorite" : false
+},{
+  "logId" : 12175286842,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Breakfast Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 616,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 616,
+    "fat" : 43.0,
+    "fiber" : 3.0,
+    "carbs" : 42.0,
+    "sodium" : 700.0,
+    "protein" : 29.0
+  },
+  "logDate" : "2017-09-18",
+  "favorite" : false
+},{
+  "logId" : 11579058201,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Snacks Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 320,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 6.0,
+    "fiber" : 6.0,
+    "carbs" : 10.0,
+    "sodium" : 720.0,
+    "protein" : 60.0
+  },
+  "logDate" : "2017-07-14",
+  "favorite" : false
+},{
+  "logId" : 11578790870,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Lunch Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 380,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 380,
+    "fat" : 14.0,
+    "fiber" : 4.0,
+    "carbs" : 32.0,
+    "sodium" : 475.0,
+    "protein" : 36.0
+  },
+  "logDate" : "2017-07-14",
+  "favorite" : false
+},{
+  "logId" : 11577858963,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Breakfast Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 820,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 820,
+    "fat" : 46.0,
+    "fiber" : 13.0,
+    "carbs" : 85.0,
+    "sodium" : 165.0,
+    "protein" : 19.0
+  },
+  "logDate" : "2017-07-14",
+  "favorite" : false
+},{
+  "logId" : 11570812793,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Snacks Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 520,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 520,
+    "fat" : 12.0,
+    "fiber" : 7.0,
+    "carbs" : 43.0,
+    "sodium" : 1050.0,
+    "protein" : 62.0
+  },
+  "logDate" : "2017-07-13",
+  "favorite" : false
+},{
+  "logId" : 11572440606,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinner Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 951,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 951,
+    "fat" : 44.0,
+    "fiber" : 8.0,
+    "carbs" : 70.0,
+    "sodium" : 895.0,
+    "protein" : 69.0
+  },
+  "logDate" : "2017-07-13",
+  "favorite" : false
+},{
+  "logId" : 11566513042,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Breakfast Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 470,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 470,
+    "fat" : 29.0,
+    "fiber" : 1.0,
+    "carbs" : 27.0,
+    "sodium" : 975.0,
+    "protein" : 30.0
+  },
+  "logDate" : "2017-07-13",
+  "favorite" : false
+},{
+  "logId" : 11562845886,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Snacks Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 320,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 320,
+    "fat" : 6.0,
+    "fiber" : 6.0,
+    "carbs" : 10.0,
+    "sodium" : 720.0,
+    "protein" : 60.0
+  },
+  "logDate" : "2017-07-12",
+  "favorite" : false
+},{
+  "logId" : 11562869016,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinner Summary",
+    "brand" : "MyFitnessPal",
+    "accessLevel" : "PRIVATE",
+    "units" : [201],
+    "calories" : 582,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 201,
+      "name" : "meal",
+      "plural" : "meals"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 582,
+    "fat" : 33.0,
+    "fiber" : 3.0,
+    "carbs" : 21.0,
+    "sodium" : 213.0,
+    "protein" : 55.0
+  },
+  "logDate" : "2017-07-12",
+  "favorite" : false
+}]
